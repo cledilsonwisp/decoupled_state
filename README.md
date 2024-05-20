@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Decoupled State** é um aplicativo simples que demonstra como desacoplar a reatividade em abstrações no Flutter, utilizando conceitos de orientação a objetos. O objetivo é evitar a dependência direta de bibliotecas de gerenciamento de estado nativas ou de terceiros, permitindo uma arquitetura mais flexível e escalável.
+O **Decoupled State** é um aplicativo simples que demonstra como desacoplar o gerenciamento de estado em abstrações no Flutter, utilizando conceitos de orientação a objetos. O objetivo é evitar a dependência direta de bibliotecas de gerenciamento de estado nativas ou de terceiros, permitindo uma arquitetura mais flexível e escalável.
 
 ## Funcionalidades
 
